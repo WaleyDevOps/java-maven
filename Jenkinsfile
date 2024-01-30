@@ -1,4 +1,4 @@
-def gv
+def groovy
 
 pipeline {
     agent any
